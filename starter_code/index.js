@@ -18,5 +18,25 @@ myElevator.call(person4);
 myElevator.call(person5);
 
 myElevator._passengersEnter()
+myElevator.floorUp();
+myElevator.floorUp();
+myElevator.floorUp();
+myElevator.floorUp();
+myElevator.floorUp();
+myElevator.floorUp();
+myElevator.floorUp();
+myElevator.floorUp();
+myElevator.floorUp();
+myElevator.floorUp();
+myElevator.floorDown();
+myElevator.floorDown();
+myElevator.floorDown();
+myElevator.floorDown();
+myElevator.floorDown();
+myElevator.floorDown();
+myElevator.floorDown();
+myElevator.floorDown();
+myElevator.floorDown();
+myElevator.floorDown();
 
 
